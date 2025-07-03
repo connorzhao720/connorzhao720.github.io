@@ -5,7 +5,9 @@ h1 {
 }
 p{
     text-align: center;
+    font-family: "Coral Pixels", serif;
     background-color: rgb(255, 174, 0);
+    font-size: 32px;
     display: inline;
     
 
