@@ -1,0 +1,19 @@
+body{
+    margin:10rem !important;
+    background-color:rgb(245, 167, 65) !important;
+}
+img{
+   width: 100px!important; /* Set the width */
+  height: 50px!important; 
+   top: 50px!important; /* Distance from the top */
+  left: 400px!important; 
+}
+.project{
+  width: 500px!important; /* Set the width */
+  height: 375px!important; 
+ 
+}
+
+.icon{
+  color:dodgerblue;
+}
